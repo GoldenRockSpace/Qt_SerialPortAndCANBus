@@ -1,0 +1,2 @@
+# Qt_SerialPortAndCANBus
+Qt编写的有关串口和CAN通信的样例
